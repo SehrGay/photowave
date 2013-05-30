@@ -2,7 +2,7 @@
 include 'includes/config.php';
 $menu_active = 'Gästebuch';
 include 'includes/header-include.php';
-echo '
+echo 'rtrt
 <div class="cleared reset-box"></div>
 <div class="art-layout-wrapper">
                 <div class="art-content-layout">
